@@ -11,7 +11,3 @@ services:
         fromDatabase:
           name: dbname_xiqa
           property: connectionString
-
-databases:
-  - name: dbname_xiqa
-    plan: free
